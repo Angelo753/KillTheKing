@@ -1,0 +1,33 @@
+arenaMaxPlayers: 8
+playersNeeded: 2
+timeToStart: 15 #seconds
+startBroadcastSecond: 5 #Second, where plugin start broadcasting to chat countdown
+mapVoteGui:
+  size: 9
+  name: '&8(&6&oHlasování pro mapu&8)'
+allowedCommands: #without "/"
+  - help
+  - hub
+  - lobby
+scoreboard:
+  waiting:
+    title: '&8(&6KillTheKing&8)'
+    data:
+      - '&6&oplay.yourserver.com'
+      - '&6&o%ktk_start_countdown%'
+      - '&7Začne za'
+      - '&6%server_online%&8/&6%ktk_arena_max%'
+      - '    &7Hráči'
+      - '&6&o%ktk_stage%'
+      - '     &7Fáze'
+  in-game:
+    title: '&8(&6KillTheKing&8)'
+    data:
+      - '&6&o%time_left%'
+      - '&7Konec za'
+      - '&6&o%kings_health%'
+      - '&7Životy krále'
+      - '&6&o%alive_players%'
+      - '&7Živí hráči'
+      - '&6&o%stage%'
+      - '&7Fáze'

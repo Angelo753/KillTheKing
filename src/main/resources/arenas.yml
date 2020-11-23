@@ -1,0 +1,30 @@
+arenas:
+  test:
+    gui:
+      name: '&cTest'
+      lore:
+        - '&b%ktk_mapVotes_test%'
+        - '&ctest2'
+      item: CRAFTING_TABLE
+      slot: 0
+    lobby:
+      x:
+      y:
+      z:
+      yaw:
+      pitch:
+      world:
+    king:
+      x:
+      y:
+      z:
+      yaw:
+      pitch:
+      world:
+    murder:
+      x:
+      y:
+      z:
+      yaw:
+      pitch:
+      world:

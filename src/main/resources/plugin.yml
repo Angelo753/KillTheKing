@@ -1,0 +1,6 @@
+name: KillTheKing
+version: @version@
+main: cz.angelo.killtheking.Main
+api-version: 1.16
+authors: [Angelo753, Water_Chick]
+softdepend: [PlaceholderAPI]

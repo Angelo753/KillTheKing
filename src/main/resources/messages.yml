@@ -1,0 +1,14 @@
+join:
+  join_title:
+    enabled: true
+    fadeIn: 20
+    stay: 20
+    fadeOut: 20
+    title: '&8(&6&oKillTheKing&8)'
+    subtitle: '&7&oZabij krále.'
+  message:
+joinMessage: '&7Hráč &6&o%player_name% &7se připojil. &8(&6&o%ktk_online%&8/&6&o%ktk_arena_max%&8)'
+quitMessage: '&7Hráč &6&o%player_name% &7se odpojil. &8(&6&o%ktk_online%&8/&6&o%ktk_arena_max%&8)'
+countDownMessage: '&7Hra začne za &6&o%ktk_countdown%s&7.'
+mapVote: '&7Hlasovl jsi pro mapu &6&o%ktk_map%&7.'
+noPerms: '&7Na tohle nemáš práva.'
